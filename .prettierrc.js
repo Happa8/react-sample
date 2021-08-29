@@ -1,4 +1,4 @@
 module.exports = {
-  semi: false,
-  arrowParans: "always"
+	semi: false,
+	arrowParans: "always",
 }
